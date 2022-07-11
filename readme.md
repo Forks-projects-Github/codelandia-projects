@@ -38,5 +38,3 @@ This repository is a collection of projects focused on mastering the front-end b
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-Translated with www.DeepL.com/Translator (free version)
