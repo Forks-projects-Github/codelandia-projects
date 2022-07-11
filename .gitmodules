@@ -1,0 +1,18 @@
+[submodule "desafio-01"]
+	path = desafio-01
+	url = https://github.com/Jolonte/desafio1-blog.git
+[submodule "desafio1-blog"]
+	path = desafio1-blog
+	url = https://github.com/Jolonte/desafio1-blog.git
+[submodule "desafio2-jordanShoes"]
+	path = desafio2-jordanShoes
+	url = https://github.com/Jolonte/desafio2-jordanShoes.git
+[submodule "desafio3-onePage"]
+	path = desafio3-onePage
+	url = https://github.com/Jolonte/desafio3-onePage.git
+[submodule "desafio4-login"]
+	path = desafio4-login
+	url = https://github.com/Jolonte/desafio4-login.git
+[submodule "desafio22-codelandia"]
+	path = desafio22-codelandia
+	url = https://github.com/Jolonte/desafio22-codelandia.git
