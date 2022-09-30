@@ -18,7 +18,7 @@ This repository is a collection of projects focused on mastering the front-end b
 - [ ] Spider Man
 - [ ] Rachi
 - [ ] Portfolio II
-- [ ] Xbox
+- [X] [Xbox](https://github.com/Jolonte/desafio21-xbox)
 - [X] [Codelândia](https://github.com/Jolonte/desafio22-codelandia)
 - [ ] HomeYou
 - [ ] Art
