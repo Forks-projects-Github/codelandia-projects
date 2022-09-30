@@ -1,4 +1,4 @@
-# Project Title
+# Codelandia Projects
 
 This repository is a collection of projects focused on mastering the front-end by rereading challenges. I plan to keep updating it as I make more projects. The goal is to centralize the projects in one place so that it is easier to track the progress made, and also, to see ways I solved problems.
 
