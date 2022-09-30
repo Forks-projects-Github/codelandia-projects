@@ -16,3 +16,9 @@
 [submodule "desafio22-codelandia"]
 	path = desafio22-codelandia
 	url = https://github.com/Jolonte/desafio22-codelandia.git
+[submodule "codelandia-projects"]
+	path = codelandia-projects
+	url = https://github.com/Jolonte/codelandia-projects.git
+[submodule "desafio21-xbox"]
+	path = desafio21-xbox
+	url = https://github.com/Jolonte/desafio21-xbox.git
